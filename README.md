@@ -5,3 +5,7 @@ The endless increase of Carbon Dioxide Emission is a serious challenge all over 
 
 ## Sample Results
 
+### Correlation with CO2 emission & engine size and CO2 emission & fuel consumption
+![fuel_consumption_vs_co2](https://user-images.githubusercontent.com/45642053/209452964-cbd8c622-cec1-4832-8c1b-8ac3cd8f314a.png)
+### Clusters and their centroid points
+![cluster_result](https://user-images.githubusercontent.com/45642053/209452883-84a47137-34df-45b6-bc8e-ab2811a9209d.png)
